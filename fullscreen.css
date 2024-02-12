@@ -1,6 +1,6 @@
 html 
 {
- overflow: auto;
+ overflow: hidden;
 }
  
 html, body, div, iframe 
