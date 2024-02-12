@@ -15,6 +15,6 @@ iframe
  display: block; 
  width: 100%; 
  border: none; 
- overflow-y: auto; 
+ overflow-y: hidden; 
  overflow-x: hidden;
 }
